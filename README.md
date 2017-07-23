@@ -1,2 +1,2 @@
 # portScanner
-simple port scanner script
+a simple port scanner script for pentesters
